@@ -1,0 +1,5 @@
+alias l='ls -l'
+alias ll='ls -lah'
+alias la='ls -lAh'
+alias clr='clear'
+alias zf='php public/index.php'
