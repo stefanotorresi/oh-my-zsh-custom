@@ -1,6 +1,7 @@
 alias l='ls -lh'
 alias ll='ls -lAh'
-alias la='ls -la'
-alias clr='clear'
-alias zf='php public/index.php'
-alias phpunit='XDEBUG_CONFIG="" phpunit'
+alias la='ls -laF'
+alias vi='vim'
+alias php-debug='php -dzend_extension=xdebug.so'
+unalias _
+unalias c
